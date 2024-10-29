@@ -1,5 +1,5 @@
 # CMDL
-The implementation of our paper "Contrastive Modality-Disentangled Learning for Multimodal Recommendation".
+The implementation of our paper "Contrastive Modality-Disentangled Learning for Multimodal Recommendation" (under review).
 ## Requirements
 python == 3.7.11
 
