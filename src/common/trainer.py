@@ -132,7 +132,7 @@ class Trainer(AbstractTrainer):
         total_loss = None
         loss_batches = []
         
-        non_CLUB_optims, CLUB_optims , non_CLUB_params, CLUB_params = self.model.get_optims()
+        non_CLUB_optims, CLUB_optims, non_CLUB_params, CLUB_params = self.model.get_optims()
         
         total_mi_loss = 0
         total_learning_loss = 0
