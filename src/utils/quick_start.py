@@ -1,6 +1,8 @@
+"""
 Run application
 ##########################
 """
+
 from logging import getLogger
 from itertools import product
 from utils.dataset import RecDataset
